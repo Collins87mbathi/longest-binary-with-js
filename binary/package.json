@@ -1,0 +1,12 @@
+{
+  "name": "binary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary.js",
+  "scripts": {
+    "start": "node binary.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
